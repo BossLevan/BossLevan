@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kosilevan@yahoo.co.uk
 - ⚡ Fun fact: When I'm not on VSCode, I'm cooking something cool on Figma!
 -->
+
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BossLevan&theme=cobalt&show_icons=true&&line_height=40)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BossLevan&theme=cobalt&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/BossLevan)  
